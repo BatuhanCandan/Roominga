@@ -1,12 +1,10 @@
 # Roominga
 
-Roominga is a photo-sharing website where people share their photos. I made this application about a year ago for learning Laravel PHP framework. Currently there are too many missing features but if you want to develop applications such as this one, it could be helpful to examine this code. Feel free to use it and fork it. :)
+Roominga is a photo-sharing website where people can share their photos. I made this application for learning the Laravel PHP framework. Currently, too many features need to be added, but if you want to develop applications such as this one, it could be helpful to examine this code. Feel free to use it and fork it. :)
 
-Roominga is heavily inspired by [Larabook](https://github.com/laracasts/larabook) and by [Instagram](https://www.instagram.com/) 
+Roominga is heavily inspired by [Larabook](https://github.com/laracasts/larabook) and by [Instagram](https://www.instagram.com/).
 
-I don't have any domain for now, but you can reach the application with this IP address: http://188.166.19.196/
-
-![screenshot](http://s15.postimg.org/lzk4t253v/roominga_screenshot.png)
+![screenshot](assets/roominga-screenshot.PNG)
 
 ## Requirements
 
